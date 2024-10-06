@@ -4,5 +4,6 @@ const strong = document.createElement("strong")
 const spanHi =document.querySelector("#hi")
 const spanBye =document.querySelector("#Bye")
 
-spanHi.style.backgroundColor="blue"
+spanHi.style.backgroundColor="red"
 
+//Happy coding 
